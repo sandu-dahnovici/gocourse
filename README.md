@@ -2,6 +2,7 @@
 <img src="https://juststickers.in/wp-content/uploads/2019/01/gopher-ninja.png" alt="Golang Ninja Gopher" width="250"/>
 
 Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg)'s [Golang course](https://greatercommons.com/learn/golang) hands-on exercises.
+(Acestea sunt soluțiile mele pentru exercițiile din cadrul cursului lui Todd McLeod)
 
 
 ## Variables, Values, & Type
