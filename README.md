@@ -9,7 +9,7 @@ Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg
 * #### [Exercises - Level 1](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%201) 
 
 ## Programming Fundamentals
-* #### [Exercises - Level 2]
+* #### [Exercises - Level 2](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%202)
 ## Control Flow
 * ####  [Exercises - Level 3]
 ## Grouping Data
