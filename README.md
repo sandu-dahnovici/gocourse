@@ -1,7 +1,7 @@
 # Golang hands-on exercises
 <img src="https://juststickers.in/wp-content/uploads/2019/01/gopher-ninja.png" alt="Golang Ninja Gopher" width="250"/>
 
-Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg)'s [Golang course](https://greatercommons.com/learn/golang) hands-on exercises.
+Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg)'s [Golang course](https://www.udemy.com/course/learn-how-to-code/) hands-on exercises.
 (Acestea sunt soluțiile mele pentru exercițiile din cadrul cursului lui Todd McLeod)
 
 
@@ -11,9 +11,9 @@ Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg
 ## Programming Fundamentals
 * #### [Exercises - Level 2](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%202)
 ## Control Flow
-* ####  [Exercises - Level 3]
+* ####  [Exercises - Level 3](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%203)
 ## Grouping Data
-* ####  [Exercises - Level 4]
+* ####  [Exercises - Level 4](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%204)
 ## Structs
 * ####  [Exercises - Level 5]
 ## Functions
