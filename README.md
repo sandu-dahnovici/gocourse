@@ -15,20 +15,20 @@ Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg
 ## Grouping Data
 * ####  [Exercises - Level 4](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%204)
 ## Structs
-* ####  [Exercises - Level 5]
+* ####  [Exercises - Level 5](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%205)
 ## Functions
-* ####  [Exercises - Level 6]
+* ####  [Exercises - Level 6](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%206)
 ## Pointers
-* ####  [Exercises - Level 7]
+* ####  [Exercises - Level 7](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%207)
 ## Application
-* #### **TODO:** [Exercises - Level 8]
+* ####  [Exercises - Level 8](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%208)
 ## Concurrency
-* #### **TODO:** [Exercises - Level 9]
+* #### [Exercises - Level 9]
 ## Channels
-* #### **TODO:** [Exercises - Level 10]
+* #### [Exercises - Level 10]
 ## Error Handling
-* #### **TODO:** [Exercises - Level 11]
+* #### [Exercises - Level 11]
 ## Writing Documentation
-* #### **TODO:** [Exercises - Level 12]
+* #### [Exercises - Level 12]
 ## Testing & Benchmarking
-* #### **TODO:** [Exercises - Level 13]
+* #### [Exercises - Level 13]
