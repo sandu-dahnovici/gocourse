@@ -23,12 +23,8 @@ Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg
 ## Application
 * ####  [Exercises - Level 8](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%208)
 ## Concurrency
-* #### [Exercises - Level 9]
+* #### [Exercises - Level 9](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%209)
 ## Channels
-* #### [Exercises - Level 10]
+* #### [Exercises - Level 10](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%2010)
 ## Error Handling
-* #### [Exercises - Level 11]
-## Writing Documentation
-* #### [Exercises - Level 12]
-## Testing & Benchmarking
-* #### [Exercises - Level 13]
+* #### [Exercises - Level 11](https://github.com/sandu-dahnovici/gocourse/tree/main/Exercises%20-%20Ninja%20Level%2011)
