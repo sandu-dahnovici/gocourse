@@ -1,7 +1,7 @@
 # Golang hands-on exercises
 <img src="https://juststickers.in/wp-content/uploads/2019/01/gopher-ninja.png" alt="Golang Ninja Gopher" width="250"/>
 
-Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg)'s [Golang course](https://www.udemy.com/course/learn-how-to-code/) hands-on exercises.
+Those are my solutions for [Todd McLeod](https://twitter.com/todd_mcleod?lang=bg)'s [Golang course](https://www.udemy.com/course/learn-how-to-code/) and [Go Web-dev Course](https://www.udemy.com/course/go-programming-language/) hands-on exercises.
 (Acestea sunt soluțiile mele pentru exercițiile din cadrul cursului lui Todd McLeod)
 
 
