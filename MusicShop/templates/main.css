@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+}
+.header {
+    display:flex;
+    width: 100%;
+    height: 50px;
+    background-color: rgba(56, 51, 51, 0.87);
+    margin-top: 0%;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.header span {
+    color: rgba(14, 185, 8, 0.623);
+    text-align: center;
+    position: static;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.card {
+    width: 100%;
+    height: 1000px;
+    background-color: #553D67;
+    justify-content: center;
+}
+
+#username-input {
+    align-items: center;
+    margin: 20px 0 20px 600px;
+}
+
+.card img {
+    display: block;
+    width: 500px;
+    height: 300px;
+    margin-left: 430px;
+}
+
+.card select {
+    margin-top: 20px;
+    margin-left: 550px;
+}
+
+
+.order-info {
+    margin-top: 20px;
+    margin-left: 540px;
+}
+
+
+input[type="text"] {
+    width: 150px;
+    border-radius: 10%;
+    font-size: 16px;
+    align-items: center;
+    color: blueviolet;
+    background: #333333;
+}
+
+input[type="number"] {
+    width: 50px;
+    color:rgb(248, 247, 247);
+    background: #333333;
+}
+
+input::placeholder {
+    font-family: 'Poppins',sans-serif;
+}
+
+input[type="submit"] {
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-left: 570px;
+    font-size: 20px;
+    background: rgb(73, 72, 71);
+    color: #fff;
+}
+
+input[type="submit"]:hover {
+    font-size: 20px;
+    background: bisque;
+    color: rgb(39, 37, 37);
+    transition-delay: 50ms;
+    animation-delay: 50ms;
+}
+
+select {
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #0e0c0c;
+    color: rgb(236, 215, 215);
+}
+
+option {
+    transition-duration: 1s;
+    transition-delay: 50ms;
+}
+
+#order-info-price {
+    margin-left: -50px;
+}
+

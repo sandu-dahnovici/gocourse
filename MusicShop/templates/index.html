@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MusicShop</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="header"><span>MusicShop</span></div>
+    <div class="card">
+        <form action="/send" method="post" name="myform">
+            <input type="text" name="username" id="username-input"
+            placeholder="Your name">
+            <img src="images/musicshop.jpg" alt="MusicShop">
+            <select name="items" id="items" onclick="resetInfo()">
+                <option value="guitar">Guitar
+                </option>
+                <option value="drums">Drums
+                </option>
+                <option value="keyboard">Keyboard
+                </option>
+            </select>
+            <div class="order-info">
+                <input type="text"  name="order-price" style="display:none;">
+                <span id="order-info-price">Order price : </span>
+                <button type="button" onclick="calculatePrice()">Calculate</button>
+                <span>Quantity : </span>
+                <input type="number" name="quantity" id="quantity" min="0" value="1">
+                <button type="button" id="resetbtn" onclick="resetInfo()">Reset</button>
+            </div>
+            <input type="submit" value="add to cart">
+        </form>
+    </div>
+    <script>
+        function calculatePrice(myform){
+        //Get selected data  
+        var elt = document.getElementById("items");
+        var name_item = elt.options[elt.selectedIndex].value;
+        switch (name_item) {
+            case "guitar" : price = 500;break;
+            case "drums" : price = 1500;break;
+            case "keyboard" : price = 1000;break;
+        }
+        var priceQty = parseInt(document.getElementById("quantity").value);
+
+        var total = parseInt(price) * priceQty;
+        var text = "Order price : ";
+        document.getElementById("order-info-price").value=total;
+        document.getElementById("order-info-price").innerHTML = text + total;
+        };
+        function resetInfo(myform) {
+            document.getElementById("quantity").value = 1;
+            document.getElementById("order-info-price").value=0;
+            var text = "Order price : ";
+            document.getElementById("order-info-price").innerHTML = text + "0";
+        };
+    </script>
+</body>
+</html>
